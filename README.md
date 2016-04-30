@@ -12,7 +12,7 @@ This code is based on PCL tutorials available on: http://pointclouds.org/
 
 
 ## Usage
-./point2normal cloud_without_normals(ply or pcd) name_of_new_cloud_with_normals(ply or pcd)
+./point2normal [cloud_without_normals(ply or pcd)] [name_of_new_cloud_with_normals(ply or pcd)]
 
 ## Instalation
 + cd PCL-Cloud-Normal-Estimator
